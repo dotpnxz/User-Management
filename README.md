@@ -1,29 +1,9 @@
-# User Management
+User Management
 
-This template should help get you started developing with Vue 3 in Vite.
+Create User
+![image](https://github.com/user-attachments/assets/f5334062-4497-47b7-8562-07daf57862bb)
+Update User
+![image](https://github.com/user-attachments/assets/019cd93a-10c9-4829-b655-d2ce6f2efdec)
+Delete User
+![image](https://github.com/user-attachments/assets/6261aaed-06ad-4a8f-8ad5-be86917d4b38)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
