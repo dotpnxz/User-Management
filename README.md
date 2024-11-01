@@ -1,6 +1,6 @@
 User Management
 
-Note: I was trying to put a background but whenever I tried, the whole structure of the program is getting stretched that it destroys the whole structure of it, maybe because I didn't use the <body> tag while I was making it.
+Note: I was trying to put a background but whenever I tried, the whole structure of the program is getting stretched that it destroys the whole structure of it, maybe because I didn't use the < body > tag while I was making it.
 
 
 
